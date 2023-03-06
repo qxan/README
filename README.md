@@ -1,5 +1,5 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Timmana&size=30&duration=6000&color=F74747&center=true&vCenter=true&lines=%F0%9F%94%97+Hi+there+I+am+Mehmet...)](https://git.io/typing-svg)
-<a href="https://github.com/qxan"><img src="https://visitor-badge.laobi.icu/badge?page_id=mehmetenfa&left_text=Ziyaret%C3%A7i%20Say%C4%B1s%C4%B1" alt="Ziyaret"></a>
+<a href="https://github.com/mehmetenfa"><img src="https://visitor-badge.laobi.icu/badge?page_id=mehmetenfa&left_text=Ziyaret%C3%A7i%20Say%C4%B1s%C4%B1" alt="Ziyaret"></a>
 <img src="images/Yazılımcı-Gif.gif" width="400" align="right" alt="logo">
 <h3 align="center">A passionate FrontEnd developer</h3>
 <h4>🔭 I’m learning FrontEnd Development  </h4>
@@ -9,10 +9,10 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Timmana&size=30&duration=6000&color=F74747&center=true&vCenter=true&lines=%F0%9F%94%97+Connect+with+me...)](https://git.io/typing-svg)
 <p align="left">
 
-  <a href="https://www.linkedin.com/in/menfavakitsayan/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mehmet enfa" height="30" width="40" />linkedin</a>
+  <a href="https://www.linkedin.com/in/mehmetenfa/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mehmet enfa" height="30" width="40" />linkedin</a>
   <a href="https://twitter.com/mhmt_enf" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="mehmet enfa" height="30" width="40" />twitter</a>
   <br><br>
-  <a href="https://app.netlify.com/teams/qxan/overview" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/netlify.svg" alt="mehmet enfa" height="30" width="40" />netlify</a>
+  <a href="https://app.netlify.com/teams/mehmetenfa/overview" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/netlify.svg" alt="mehmet enfa" height="30" width="40" />netlify</a>
 <a href="" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/vercel.svg" alt="mehmet enfa" height="30" width="40" />vercel</a>
 <a href="https://stackoverflow.com/users/20199013/mehmet-enfa-vakitsayan" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@7.5.0/icons/stackoverflow.svg" alt="mehmet enfa" height="30" width="40" />stackoverflow</a>
 
@@ -51,7 +51,7 @@
 
 
 <!-- ![GitHub stats](https://github-readme-stats.vercel.app/api?username=qxan&show_icons=true) -->
-![GitHub stats](https://github-readme-streak-stats.herokuapp.com/?user=qxan&theme=tokyonight&hide_border=false)<br/> 
+![GitHub stats](https://github-readme-streak-stats.herokuapp.com/?user=mehmetenfa&theme=tokyonight&hide_border=false)<br/> 
 
 
 
