@@ -36,9 +36,7 @@
 <a href="#" target="_blank"> <img src="https://react.semantic-ui.com/logo.png" alt="semantic-ui" height="60"/> </a>
 <a href="#" target="_blank"> <img src="https://user-images.githubusercontent.com/89463157/184048993-32bb00ed-54e3-438f-b009-1ccfee967b4a.png" alt="html" height="60"/> </a>
 <a href="#" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Sass_Logo_Color.svg/1200px-Sass_Logo_Color.svg.png" alt="sass" height="50"/> </a>
-<a href="#" target="_blank"> <img src="https://as1.ftcdn.net/v2/jpg/03/21/78/18/1000_F_321781826_tgfihu50c7AcvFDW6Un9mbQ8qzJQhOwQ.jpg" alt="ts" height="50"/> </a>
-<a href="#" target="_blank"> <img src="https://img.icons8.com/color/452/visual-studio-2019.png" alt="visual-studio" height="50"/> </a>
-<a href="#" target="_blank"> <img src="https://www.pngitem.com/pimgs/m/80-800968_vscode-visual-studio-logo-png-transparent-png.png" alt="vs-code" height="50"/> </a>
+
 <a href="#" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" height="50"/> </a>
 <a href="#" target="_blank"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" height="50"/> </a>
 <a href="#" target="_blank"> <img src="https://pbs.twimg.com/profile_images/1414990564408262661/r6YemvF9_400x400.jpg" alt="gitHub" height="50"/> </a>
