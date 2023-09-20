@@ -47,7 +47,7 @@
 
 
 <!-- ![GitHub stats](https://github-readme-stats.vercel.app/api?username=qxan&show_icons=true) -->
-![GitHub stats](https://github-readme-streak-stats.herokuapp.com/?user=mehmetenfa&theme=tokyonight&hide_border=false)<br/> 
+[![GitHub Streak](https://streak-stats.demolab.com?user=mehmetenfa&theme=dark)](https://git.io/streak-stats)
 
 
 
